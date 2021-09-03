@@ -1,0 +1,4 @@
+name: Event time module
+description: Side module
+type: module
+core_version_requirement: ^9
